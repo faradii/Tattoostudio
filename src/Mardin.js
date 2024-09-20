@@ -48,12 +48,12 @@ export const Mardin = () => {
               <div className="overlap-2">
                 <p className="berweisungen-an">
                   <span className="text-wrapper-7">
-                    Bankverbindung Mardin Leipzig
+                    Bankverbindung **** Leipzig
                     <br />
                   </span>
 
                   <span className="text-wrapper-7">
-                    DE72 8605 5592 1631 5641 33
+                    DE72 **** **** **** **** **
                   </span>
                 </p>
               </div>
@@ -187,7 +187,7 @@ export const Mardin = () => {
             </span>
           </div>
           <div className="text">
-            <span className="span">Bennigsenstrasse 22</span>
+            <span className="span">*****</span>
           </div>
           <div className="text">
             <span className="span">
